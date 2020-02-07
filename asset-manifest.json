@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/widjaaja.github.io/static/css/main.5c990f96.chunk.css",
+    "main.js": "/widjaaja.github.io/static/js/main.e2c292cb.chunk.js",
+    "main.js.map": "/widjaaja.github.io/static/js/main.e2c292cb.chunk.js.map",
+    "runtime-main.js": "/widjaaja.github.io/static/js/runtime-main.38a335f4.js",
+    "runtime-main.js.map": "/widjaaja.github.io/static/js/runtime-main.38a335f4.js.map",
+    "static/js/2.ba91451d.chunk.js": "/widjaaja.github.io/static/js/2.ba91451d.chunk.js",
+    "static/js/2.ba91451d.chunk.js.map": "/widjaaja.github.io/static/js/2.ba91451d.chunk.js.map",
+    "index.html": "/widjaaja.github.io/index.html",
+    "precache-manifest.98d89a4914e332757f50aa77180447e1.js": "/widjaaja.github.io/precache-manifest.98d89a4914e332757f50aa77180447e1.js",
+    "service-worker.js": "/widjaaja.github.io/service-worker.js",
+    "static/css/main.5c990f96.chunk.css.map": "/widjaaja.github.io/static/css/main.5c990f96.chunk.css.map",
+    "static/js/2.ba91451d.chunk.js.LICENSE": "/widjaaja.github.io/static/js/2.ba91451d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a335f4.js",
+    "static/js/2.ba91451d.chunk.js",
+    "static/css/main.5c990f96.chunk.css",
+    "static/js/main.e2c292cb.chunk.js"
+  ]
+}
