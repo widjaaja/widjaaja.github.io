@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e525978.chunk.css",
+    "main.js": "/static/js/main.206d6a87.chunk.js",
+    "main.js.map": "/static/js/main.206d6a87.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b5842599.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b5842599.js.map",
+    "static/js/2.92f15f85.chunk.js": "/static/js/2.92f15f85.chunk.js",
+    "static/js/2.92f15f85.chunk.js.map": "/static/js/2.92f15f85.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.07227018ee8660920c82b46a56cede01.js": "/precache-manifest.07227018ee8660920c82b46a56cede01.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0e525978.chunk.css.map": "/static/css/main.0e525978.chunk.css.map",
+    "static/js/2.92f15f85.chunk.js.LICENSE.txt": "/static/js/2.92f15f85.chunk.js.LICENSE.txt",
+    "static/media/double-arrow.svg": "/static/media/double-arrow.9c5a5300.svg",
+    "static/media/react-logo.png": "/static/media/react-logo.2d2b0d56.png",
+    "static/media/tailwindcss-logo.svg": "/static/media/tailwindcss-logo.ccf9b186.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5842599.js",
+    "static/js/2.92f15f85.chunk.js",
+    "static/css/main.0e525978.chunk.css",
+    "static/js/main.206d6a87.chunk.js"
+  ]
+}
